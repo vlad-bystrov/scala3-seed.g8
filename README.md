@@ -1,5 +1,11 @@
 A [Giter8][g8] template for simple scala 3.x project!
 
+## Usage in SBT
+
+```
+sbt new vlad-bystrov/scala3-seed.g8
+```
+
 Template license
 ----------------
 Written in 2023 by Vladimir Bystrov vlad.bystrov@gmail.com
