@@ -1,4 +1,4 @@
-import Dependencies._
+import Dependencies.*
 
 ThisBuild / organization := "$organization;format="lower,package"$"
 ThisBuild / version      := "1.0-SNAPSHOT"
